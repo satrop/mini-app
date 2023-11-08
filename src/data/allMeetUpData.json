@@ -1,0 +1,17 @@
+
+{
+  "meetups": [
+    {
+			"id": "1",
+      "image": "https://example.com/image1.jpg",
+      "title": "First Meetup",
+      "description": "This is the first meetup. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+			"id": "2",
+      "image": "https://example.com/image2.jpg",
+      "title": "Second Meetup",
+      "description": "This is the second meetup. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  ]
+}
